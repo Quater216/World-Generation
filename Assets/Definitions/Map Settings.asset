@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f58de276bf64423984a96e6d344bcda3, type: 3}
   m_Name: Map Settings
   m_EditorClassIdentifier: 
-  <Width>k__BackingField: 1500
+  <Width>k__BackingField: 300
   <Layers>k__BackingField:
   - <Height>k__BackingField: 50
     <Tile>k__BackingField: 1
@@ -27,26 +27,26 @@ MonoBehaviour:
   - Type: 1
     Value: 0.32
   - Type: 2
-    Value: 0.16
+    Value: 0.48
   - Type: 3
-    Value: 0.16
+    Value: 0.64
   - Type: 4
-    Value: 0.16
+    Value: 0.8
   - Type: 5
-    Value: 0.16
+    Value: 0.94
   <HeatSettings>k__BackingField:
   - Type: 0
     Value: 0.16
   - Type: 1
     Value: 0.32
   - Type: 2
-    Value: 0.16
+    Value: 0.48
   - Type: 3
-    Value: 0.16
+    Value: 0.64
   - Type: 4
-    Value: 0.16
+    Value: 0.8
   - Type: 5
-    Value: 0.16
+    Value: 0.94
   <BiomeTable>k__BackingField:
     Rows:
     - Row:

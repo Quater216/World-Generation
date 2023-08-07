@@ -44,8 +44,6 @@ namespace Source
                 {
                     var biomeData = settings.BiomeTable.Rows[(int)moistureMap.Datas[i].Type].Row[(int)heatMap.Datas[i].Type];
                     
-                    Debug.Log(biomeData.Biome);
-                    
                     biomemap.Datas.Add(new BiomeData(biomeData.Biome, biomeData.DefaultTile, moistureMap.Datas[i].Position));
                 }
             }
